@@ -23,6 +23,9 @@
 		$ pip install tensorflow
 		$ pip install keras
 		$ pip install scikit-image
+### Getting Dataset and trained model file
+	The Train and Test data files are available on the following link.
+	https://drive.google.com/drive/folders/1ttSWCJGWZdGLeTHRzHHVxuAhJUF7c5An?usp=sharing
 
 ## Running the tests
 
