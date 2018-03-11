@@ -43,6 +43,10 @@
 	This model is trained on Google Colab GPU.
 	This software was trained on 1000 image dataset and we got pretty good results but we can further train it on more images to improvise the results.
 
+## Sample:
+	![alt text](https://raw.githubusercontent.com/itanish/Image-Colorization/master/Snapshots/Capture1.PNG)
+
+
 
 ## Built With
 
