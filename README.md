@@ -7,13 +7,13 @@
 
 	Clone this github which includes model.h5 & all other .py files in one folder.
 
-### Prerequisites
+## Prerequisites
 
 	Install Python 3.6 
 	Install tensorflow, keras, PyQt4, scikit-image
 
 
-### Installing
+## Installing
 
 	Download python 3.6
 	Download pyqt4
@@ -23,7 +23,7 @@
 		$ pip install tensorflow
 		$ pip install keras
 		$ pip install scikit-image
-### Getting Dataset and trained model file
+## Getting Dataset and trained model file
 	The Train and Test data files are available on the following link.
 	https://drive.google.com/drive/folders/1ttSWCJGWZdGLeTHRzHHVxuAhJUF7c5An?usp=sharing
 
@@ -38,7 +38,7 @@
 	- Once file is uploaded, click on "Colorise" button
 	- Result will be saved in a folder on desktop
 
-### Train
+## Train
 
 	This model is trained on Google Colab GPU.
 	This software was trained on 1000 image dataset and we got pretty good results but we can further train it on more images to improvise the results.
@@ -61,13 +61,13 @@
 
 	ColorIt version 1.0
 
-## Authors
-
+## Developers
+	
+	Tanish Sehgal
 	Jaineel Shah
 	Pravar Parekh
-	Tanish sehgal
-	Atharva gole
-	Shivashish jaiswal
+	Atharva Gole
+	Shivashish Jaiswal
 	
 
 
